@@ -1,16 +1,18 @@
-# graph_test
+# Graphql Login Screen And Listing Products
 
-A new Flutter project.
+This is a test for login screen and listing products via graphql backend implementation.
 
-## Getting Started
+This test project includes ;
 
-This project is a starting point for a Flutter application.
+- Different animated background for each page.
+- Small icons appearing when textbox is written.
+- Show and hide password icon added.
+- Hover effects for texboxes.Its changing all rectangular space.
+- Empty value warnings for each textboxs.
+- Short password warning for password texbox section.
+- Incorrect password or email warning toast added.
+- Welcome back "username" section is added but not working for now and username-password is working on local json file.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![graphql_test-min](https://user-images.githubusercontent.com/112854290/219349641-80764f45-9efd-4ee7-85d6-e04e95a7b57f.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
